@@ -3,7 +3,7 @@
 Use of redirection of all incoming traffic on the public IP address of the server to the WAN interface of PFSense:
 - Security management and flow routing.
 
-Script and tutorial from Zwindler : https://blog.zwindler.fr/2017/07/11/deploiment-de-proxmox-ve-5-sur-un-serveur-dedie-part-1/
+Script and tutorial by m4vr0x from Zwindler : https://blog.zwindler.fr/2017/07/11/deploiment-de-proxmox-ve-5-sur-un-serveur-dedie-part-1/
 
 My beginner server: https://www.claude-lusseau.fr
 
