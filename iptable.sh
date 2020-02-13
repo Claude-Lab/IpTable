@@ -1,5 +1,24 @@
 #!/bin/sh
 
+##### Changing ip and ports #####
+
+#     _____________________________________________
+#     |       To replace        |      Lines      |
+#     _____________________________________________
+#     |     Public IP           |        41       |
+#     |     SSH port            |       107       |
+#     |     WebUI port          |       109       |
+#     |     SSH port            |       122       |
+#     |     SSH port            |       133       |
+#     |     WebUI port          |       135       |
+#     |     SSH & WebUI ports   |       153       |
+#     |     SSH port            |       165       |
+#     |     WebUI port          |       168       |
+#     |     SSH port            |       174       |
+#     |     WebUI port          |       176       |
+#     |___________________________________________|
+
+
 	# ---------
 	# VARIABLES
 	# ---------
