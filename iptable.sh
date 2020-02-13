@@ -3,7 +3,7 @@
 ##### Changing ip and ports #####
 
 #     _____________________________________________
-#     |       To replace        |      Lines      |
+#     |       replace XXXX      |      Lines      |
 #     _____________________________________________
 #     |     Public IP           |        41       |
 #     |     SSH port            |       107       |
